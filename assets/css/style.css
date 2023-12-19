@@ -57,7 +57,7 @@ main {
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
-    list-style: none;
+    list-style-type: none;
 }
 
 /* Footer */
