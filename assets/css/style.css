@@ -128,4 +128,19 @@ footer {
         display: none;
     }
 
+    #logo{
+        font-size: 280%;
+        line-height: 75px;
+        margin: 0 0.5rem;
+    }
+
+    /*main content*/
+
+    main{ 
+
+        /*push main content down to accomodate header*/
+        margin-top: 79px;
+
+    }
+
 }
