@@ -107,8 +107,8 @@ nav{
         list-style-type: none;
 }
 
-i{
-        font-size: 120%;
+ #social-networks i{
+        font-size: 160%;
         padding: 5%;
         color: #3a3a3a;
 }
