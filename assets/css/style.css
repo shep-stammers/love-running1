@@ -101,6 +101,23 @@ main {
     margin-left: 10px;
 }
 
+#circle-cover-bg{
+    width: 90vw;
+    height: 90vw;
+    margin-bottom: 20px;
+    background: url(../images/reasons-image.webp) no-repeat top center / cover;
+    /* Makes an image into a circle*/
+    border-radius: 50%;
+    max-width: 300px;
+    max-height: 300px;
+}
+
+#benefits-image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 #cover-text {
     /* final value sets the transparency */
     background-color: rgba(241, 109, 107, .7);
