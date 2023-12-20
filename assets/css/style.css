@@ -76,6 +76,7 @@ main {
 
 #reasons > h2 {
     font-size: 280%;
+    text-transform: uppercase;
 }
 
 #benefits-physical #benefits-mental{
@@ -88,6 +89,10 @@ main {
     border-bottom: 1px solid #3a3a3a;
     margin: 5px 0;
 
+}
+
+#benefits span{
+    margin-left: 10px;
 }
 
 #cover-text {
